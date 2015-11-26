@@ -15,3 +15,6 @@ sh ios_dev_pack.sh
 
 #### TeX ####
 sh tex_pack.sh
+
+#### MEDIA ####
+sh media_pack.sh
