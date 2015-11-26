@@ -16,3 +16,15 @@ brew cask install github-desktop
 
 echo "Installing Dropbox..."
 brew cask install dropbox
+
+echo "Installing Scroll Reverser..."
+brew cask install scroll-reverser
+
+echo "Installing Mou..."
+brew cask install mou
+
+echo "Installing iStat Menus..."
+brew cask install istat-menus
+
+echo "Installing MacID..."
+brew cask install macid
