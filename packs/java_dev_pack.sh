@@ -1,4 +1,3 @@
-
 echo "Installing JDK..."
 brew cask install java
 
