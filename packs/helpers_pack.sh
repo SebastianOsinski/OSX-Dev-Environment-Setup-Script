@@ -5,8 +5,10 @@ echo "Installing Alfred..."
 brew cask install alfred
 
 echo "Installing Parallels Desktop..."
+brew cask install parallels-desktop
 
 echo "Installing CodeRunner..."
+brew cask install coderunner
 
 echo "Installing BetterTouchTool..."
 brew cask install bettertouchtool
