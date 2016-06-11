@@ -13,9 +13,6 @@ brew cask install bettertouchtool
 echo "Installing Dropbox..."
 brew cask install dropbox
 
-echo "Installing Mou..."
-brew cask install mou
-
 echo "Installing iStat Menus..."
 brew cask install istat-menus
 
