@@ -7,6 +7,9 @@ brew cask install alfred
 echo "Installing Parallels Desktop..."
 brew cask install parallels-desktop
 
+echo "Installing SourceTree..."
+brew cask install sourcetree
+
 echo "Installing BetterTouchTool..."
 brew cask install bettertouchtool
 
