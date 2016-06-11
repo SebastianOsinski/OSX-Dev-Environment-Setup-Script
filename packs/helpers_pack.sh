@@ -13,7 +13,7 @@ brew cask install sourcetree
 echo "Installing Paw..."
 brew cask install paw
 
-echo "Installing Zeplin"
+echo "Installing Zeplin..."
 brew cask install zeplin
 
 echo "Installing BetterTouchTool..."
