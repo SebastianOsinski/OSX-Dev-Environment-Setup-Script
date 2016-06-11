@@ -9,3 +9,6 @@ sudo gem install synx
 
 echo "Installing Fastlane..."
 sudo gem install fastlane
+
+echo "Installing Bundler..."
+sudo gem install bundler
