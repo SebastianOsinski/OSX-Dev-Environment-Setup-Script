@@ -30,6 +30,3 @@ brew cask install macid
 
 echo "Installing Pupil..."
 brew cask install pupil
-
-echo "Installing Slack..."
-brew cask install slack
