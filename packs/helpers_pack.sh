@@ -7,20 +7,11 @@ brew cask install alfred
 echo "Installing Parallels Desktop..."
 brew cask install parallels-desktop
 
-echo "Installing CodeRunner..."
-brew cask install coderunner
-
 echo "Installing BetterTouchTool..."
 brew cask install bettertouchtool
 
-echo "Installing GitHub Desktop..."
-brew cask install github-desktop
-
 echo "Installing Dropbox..."
 brew cask install dropbox
-
-echo "Installing Scroll Reverser..."
-brew cask install scroll-reverser
 
 echo "Installing Mou..."
 brew cask install mou
