@@ -1,8 +1,11 @@
 echo "Installing CocoaPods..."
 sudo gem install cocoapods
 
-echo "Installing SwiftLint..."
-brew install swiftlint
+echo "Installing Carthage..."
+brew install carthage
 
-echo "Installing Fabric..."
-brew cask install fabric
+echo "Installing Synx..."
+sudo gem install synx
+
+echo "Installing Fastlane..."
+sudo gem install fastlane
